@@ -15,7 +15,7 @@ dataFile.txt
 
 The dataFile.txt must have the following layout:
 
-..
+::
   date: 20130320                                                                  
   title: New project
   Today, my new project was started.
