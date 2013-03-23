@@ -1,0 +1,5 @@
+<?php
+
+incluce('../Noticiario.php');
+
+?>

@@ -1,0 +1,9 @@
+date: 20130320
+title: New project
+Today, my new project was started.
+It is a news system for a friend.
+Multiline article
+----
+date: 20130321
+title: Noticiario ready
+Noticiario can be released to the website!
